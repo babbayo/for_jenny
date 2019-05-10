@@ -1,0 +1,9 @@
+{
+	"ImportPath": "for_jenny",
+	"GoVersion": "go1.12",
+	"GodepVersion": "v80",
+	"Packages": [
+		"./crawl/..."
+	],
+	"Deps": []
+}
